@@ -1,2 +1,2 @@
 # maramara
-self-learning tools
+self-learning tools for Indic languages like Telugu
